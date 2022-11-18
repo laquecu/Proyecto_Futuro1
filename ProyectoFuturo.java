@@ -2,7 +2,7 @@ public class ProyectoFuturo {
         public static void estudio(String nombre, int modulos,int horas){
 
             System.out.println(nombre+" "+modulos+" "+horas);
-
+            /* JORGE SELVA*/
         }
 
         public static String veredicto(String valor1, String valor2){
