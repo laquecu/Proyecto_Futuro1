@@ -1,5 +1,5 @@
 public class ProyectoFuturo {
-        public static void estudio(String nombre, int modulos,int horas){
+        private static void estudio(String nombre, int modulos,int horas){
 
             System.out.println(nombre+" "+modulos+" "+horas);
             /* JORGE SELVA*/
